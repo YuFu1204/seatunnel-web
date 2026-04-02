@@ -29,29 +29,6 @@ The platform focuses on improving the usability and productivity of Apache SeaTu
 
 SeaTunnel Web aims to make Apache SeaTunnel more accessible, maintainable, and easier to operate in production environments.
 
-
-## Partial screenshot
-
-![Batch Sync Screenshot](docs/images/img_14.png)
-![Batch Sync Screenshot](docs/images/img_13.png)
-![Batch Sync Screenshot](docs/images/img_12.png)
-![Batch Sync Screenshot](docs/images/img_11.png)
-![Batch Sync Screenshot](docs/images/img.png)
-![Batch Sync Screenshot](docs/images/img_1.png)
-![Batch Sync Screenshot](docs/images/img_2.png)
-![Batch Sync Screenshot](docs/images/img_3.png)
-![Batch Sync Screenshot](docs/images/img_4.png)
-![Batch Sync Screenshot](docs/images/img_5.png)
-![Batch Sync Screenshot](docs/images/img_6.png)
-![Batch Sync Screenshot](docs/images/img_7.png)
-![Batch Sync Screenshot](docs/images/img_8.png)
-![Batch Sync Screenshot](docs/images/img_9.png)
-![Batch Sync Screenshot](docs/images/img_10.png)
-![Batch Sync Screenshot](docs/images/img_15.png)
-![Batch Sync Screenshot](docs/images/img_16.png)
-![Batch Sync Screenshot](docs/images/img_17.png)
-![Batch Sync Screenshot](docs/images/img_18.png)
-
 ## 🔥 Join Group
 
 If you would like to be among the first to experience the adapted version of SeaTunnel Web,
